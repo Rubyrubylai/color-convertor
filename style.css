@@ -1,0 +1,36 @@
+#RGB-panel{
+    float: left;
+}
+
+#HEX-panel{
+    display: inline-block;
+}
+
+.container-fluid{
+    margin-top: 40px;
+}
+
+.Inputcolor{
+    display: inline-block;
+}
+
+.form-control-in{
+    display: inline-block;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+#BlockR, #BlockG, #BlockB{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+#BlockH{
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+
+}
